@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hanchan1305@gmail.com
+	name = hanh nguyen
